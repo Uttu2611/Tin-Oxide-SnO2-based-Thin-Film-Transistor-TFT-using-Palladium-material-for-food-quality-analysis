@@ -83,6 +83,26 @@ Figure 4 presents the transfer characteristics, where the gate bias was varied f
 
 <img width="677" height="469" alt="image" src="https://github.com/user-attachments/assets/b7a3f2a3-97c5-4c07-bdf5-e09931773643" />
 
+<img width="706" height="471" alt="image" src="https://github.com/user-attachments/assets/3522be19-4f56-4f3a-8192-fd1494af1068" />
+
+<p>When using a TiO₂-based Thin-Film Transistor (TFT) as a gas sensor, a 7 μm channel length offers an ideal balance between sensitivity and stability—both critical for sensing applications. Longer channels provide a larger surface area for gas interaction and help reduce short-channel effects (SCEs), enhancing sensor accuracy.</p>
+
+<p>As shown in Figure 10, reducing the channel length to 1–2 μm increases the drain current due to lower channel resistance but results in degraded gate control from stronger SCEs. Figure 11 illustrates that shorter channels exhibit higher subthreshold swing (55–175 mV/dec), indicating reduced sensitivity and measurement accuracy. Proper silicon substrate doping and channel optimization are therefore essential to maintain a balance between current drive and sensor precision.</p>
+
+<img width="496" height="446" alt="image" src="https://github.com/user-attachments/assets/6a3eaaa8-db92-4a13-b5a6-6a710ca2d684" />
+
+<p>Figure 12 shows the electric field distribution of the proposed transistor along the X-direction. Two distinct spikes represent the source and drain electrodes, with the field intensity decreasing toward the drain. The sub-channel and gate field plate structures help regulate the electric field, forming a strong 2DEG (Two-Dimensional Electron Gas) near the interface due to polarization in the AlGaN layer. This enhances electron confinement, reduces buffer leakage, and improves current performance compared to conventional TFT and MOSFET structures.</p>
+
+<p>While Palladium (Pd) offers excellent sensing performance, its cost limits large-scale use. To mitigate this, ultra-thin Pd films (≤10 nm) or Pd nanoparticles can be integrated on low-cost substrates via sputtering or e-beam techniques. TiO₂ is highly compatible with Pd, and performance can be further tuned through dopants. However, to prevent Pd diffusion and degradation above 300 °C, fabrication should avoid exposure to sulfur gases and maintain annealing temperatures below 300 °C.</p>
+
+## Conclusion
+
+<p>The proposed Palladium-based TFT sensor shows strong potential for food safety monitoring, including detection of freshness, allergens, viruses, and toxic gases. The Pd layer detects hydrogen and other harmful compounds, and its integration over the device in Sentaurus TCAD simulations reproduces gas-sensing behavior. This leads to measurable reductions in drain current, transconductance, and subthreshold swing, with around 4 μA decrease observed depending on the TiO₂ layer thickness.</p>
+
+<p>Future work will focus on optimizing the Pd layer thickness and exploring alternative sensing materials to improve selectivity and sensitivity for a broader range of harmful gases, enhancing the device’s efficacy for real-world food monitoring applications.</p>
+
+
+
 
 
 
