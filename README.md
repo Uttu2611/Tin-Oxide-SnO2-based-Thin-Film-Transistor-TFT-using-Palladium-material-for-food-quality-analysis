@@ -8,13 +8,14 @@ Materials such as Titanium Dioxide (TiO₂) and Amorphous Indium-Gallium-Zinc Ox
 ## Device Structure
 <img width="638" height="391" alt="image" src="https://github.com/user-attachments/assets/9d28a9b7-0fb5-4c0d-9ecf-2c8edc923361" />
 
+
 Figure 1 shows the cross-sectional structure of the presented Thin Film Transistor (TFT) gas sensor, with the structural details tabulated in Table 1. The device is based on a back-gated Field Effect Transistor (FET) structure, wherein the gate is realized by a heavily doped p-type silicon substrate, and metal electrodes are used to demarcate the source and drain regions. The silicon nanowire channel offers a high surface-to-volume ratio, which improves the overall sensing sensitivity.
 
 A Palladium (Pd) layer is deposited on top of the silicon channel, serving as the gas-sensing material because of its high catalytic activity. Upon exposure to hydrogen-based or other poisonous gases, the Palladium layer adsorbs the gas molecules, resulting in a change in its work function. This change alters the drain current, facilitating gas detection through quantifiable electrical response.
 
 The output behavior of the device was examined for different gate work functions to investigate their effect on current variation and sensitivity. In the absence of the Palladium layer, the device exhibits merely baseline current changes and fails to detect gases. By including the Pd layer, the transistor can successfully detect and measure toxic gases and is well suited for food safety and environmental monitoring applications.
 
-| Parameter | Values |
+| Header 1 | Header 2 | Header 3 |
 |---|---|---|
 | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
